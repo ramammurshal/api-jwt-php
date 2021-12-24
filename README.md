@@ -1,1 +1,3 @@
-Repository ini berisi source code final project Rama Muhammad Murshal (5027201041) mengenai implementasi API dengan menggunakan JWT bahasan pemrograman PHP.
+Web link: http://jwt5027201041.infinityfreeapp.com/?i=1
+
+API link: http://jwt5027201041.infinityfreeapp.com/?i=1
